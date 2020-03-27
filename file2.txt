@@ -1,2 +1,0 @@
-This file is created on dev branch.
-This file created before running stash command on dev branch.
