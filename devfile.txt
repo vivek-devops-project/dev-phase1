@@ -1,2 +1,0 @@
-This file is in dev branch
-Before git stash in dev branch
