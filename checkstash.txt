@@ -1,2 +1,0 @@
-Checking git stash funcationlity.
-After commiting modified the file again.
