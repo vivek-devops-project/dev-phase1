@@ -6,6 +6,4 @@ This file is modified on dev branch.
 
 This file is modified to check git pull request.
 
-Testing Git fetch command on dev branch
-
-Testing git fetch command again.
+Testing Git fetch command on dev brach.
