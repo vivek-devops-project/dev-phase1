@@ -1,9 +1,0 @@
-Below are git command for testing
-
-git --version # to check git version
-
-This file is modified on dev branch.
-
-This file is modified to check git pull request.
-
-Testing Git fetch command on dev brach.
